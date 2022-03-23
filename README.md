@@ -4,6 +4,7 @@
 - 🌱 I’m currently at beginner-intermediate level at C language and MATLAB as they have been taught in modules during my course
 - 💽 I'm looking forward to learning and becoming proficient at python and/or R in the near future
 - 📫 You can reach me by email at makojuometere@gmail.com
+- 👩‍💻 I will be using this platform to share mini projects I have done by myself or as part of my course
 
 <!---
 omet03/omet03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
